@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "179103859602",
+    "firebase_url": "https://fgck-60f1c.firebaseio.com",
+    "project_id": "fgck-60f1c",
+    "storage_bucket": "fgck-60f1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179103859602:android:486f064af8919a84",
+        "android_client_info": {
+          "package_name": "com.fgck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179103859602-pej3d9n2d6l0oms02m2hrctiraeo5qjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX7t56GpsagNyNkxoXKiegFGupXMoKekI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179103859602-pej3d9n2d6l0oms02m2hrctiraeo5qjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
